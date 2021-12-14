@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bexx/Projects/CPP-CrashCourse-Exercises/Ch06/Main.cpp
+cstdlib
+-
+iostream
+-
+unordered_map
+-
+bits/stdc++.h
+-
+type_traits
+-
+stdexcept
+-
+

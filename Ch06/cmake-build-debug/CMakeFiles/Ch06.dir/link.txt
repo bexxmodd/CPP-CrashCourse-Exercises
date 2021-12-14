@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Ch06.dir/Main.cpp.o -o Ch06 
