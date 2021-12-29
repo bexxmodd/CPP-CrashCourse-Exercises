@@ -24,6 +24,15 @@ constexpr bool all(Fn function, In* input, size_t length)
     return true;
 }
 
+template <typename Fn, typename In>
+constexpr void convert(Fn function, In *input, size_t len)
+{
+    for (size_t i = 0; i < len; i++)
+        input[i] = function(input[i]);
+}
+
+:
+
 
 TEST_CASE("fold with lambdas", "[fold]")
 {
@@ -53,6 +62,7 @@ TEST_CASE("fold with lambdas", "[fold]")
         auto twohundred = fold([](auto x, auto y) { return x > 200 ? y + 1 : 0; }, data, data_len, 0);
         REQUIRE(twohundred == 3);
     }
+
 }
 
 TEST_CASE("find all values satisfied the requirement", "[all]")
@@ -63,3 +73,14 @@ TEST_CASE("find all values satisfied the requirement", "[all]")
     REQUIRE(all_gt100 == false);
 }
 
+TEST_CASE("Convert array of into positive numbers")
+{
+    SECTION("If negative square it lambda")
+    {
+        int data[]{ -5, 20, -3, 2, 0 };
+        size_t len = 5;
+        convert([](auto x) { return x < 0 ? x * x : x; }, data, len);
+        for (size_t i = 0; i < len; i++)
+            REQUIRE(data[i] >=0 );
+    }
+}

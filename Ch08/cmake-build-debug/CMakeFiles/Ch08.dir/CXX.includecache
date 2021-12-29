@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bexx/Projects/CPP-CrashCourse-Exercises/Ch08/Primes.h
+iostream
+-
+type_traits
+-
+
+/home/bexx/Projects/CPP-CrashCourse-Exercises/Ch08/main.cpp
+iostream
+-
+cstdio
+-
+type_traits
+-
+Primes.h
+/home/bexx/Projects/CPP-CrashCourse-Exercises/Ch08/Primes.h
+

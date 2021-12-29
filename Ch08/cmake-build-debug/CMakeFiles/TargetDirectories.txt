@@ -1,0 +1,3 @@
+/home/bexx/Projects/CPP-CrashCourse-Exercises/Ch08/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bexx/Projects/CPP-CrashCourse-Exercises/Ch08/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bexx/Projects/CPP-CrashCourse-Exercises/Ch08/cmake-build-debug/CMakeFiles/Ch08.dir
