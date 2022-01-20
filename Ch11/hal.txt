@@ -1,0 +1,10 @@
+======= start ======
+I'm completely operational -> 1
+I'm completely operational -> 2
+I'm completely operational -> 3
+I'm completely operational -> 4
+======= end ======
+Stop, Dave!
+Stop, Dave!
+Stop, Dave!
+Stop, Dave!

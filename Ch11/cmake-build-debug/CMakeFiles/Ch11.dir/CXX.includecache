@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bexx/Projects/CPP-CrashCourse-Exercises/Ch11/ttt.cpp
+cstdio
+-
+iostream
+-
+concepts
+-
+

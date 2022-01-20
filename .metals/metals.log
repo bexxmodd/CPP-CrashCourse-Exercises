@@ -1,0 +1,281 @@
+2022.01.15 17:51:39 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/bexx/Projects/CPP-CrashCourse-Exercises/.metals/lsp.trace.json or /home/bexx/.cache/metals/lsp.trace.json
+2022.01.15 17:51:39 INFO  logging to file /home/bexx/Projects/CPP-CrashCourse-Exercises/.metals/metals.log
+2022.01.15 17:51:39 INFO  Started: Metals version 0.11.0 in workspace '/home/bexx/Projects/CPP-CrashCourse-Exercises' for client Visual Studio Code 1.63.2.
+2022.01.15 17:51:39 INFO  Parse release: 11.0.13
+2022.01.15 17:51:41 INFO  time: initialize in 2.12s
+2022.01.15 17:51:42 WARN  Build server is not auto-connectable.
+2022.01.15 17:51:42 WARN  no build tool detected in workspace '/home/bexx/Projects/CPP-CrashCourse-Exercises'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.01.15 17:51:42 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.15 17:51:42 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch4.scala
+2022.01.15 17:51:47 INFO  no build target found for /home/bexx/Projects/functional-rust/scala/ch4.scala. Using presentation compiler with project's scala-library version: 3.1.0
+2022.01.15 17:51:48 INFO  time: code lens generation in 5.83s
+2022.01.15 17:53:25 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 15, 2022 6:03:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 374
+Jan 15, 2022 6:03:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 401
+Jan 15, 2022 6:03:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 414
+2022.01.15 18:04:06 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.15 18:05:14 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.15 18:05:30 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 15, 2022 6:09:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jan 15, 2022 6:09:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.01.15 18:10:54 INFO  shutting down Metals
+2022.01.15 18:11:01 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/bexx/Projects/CPP-CrashCourse-Exercises/.metals/lsp.trace.json or /home/bexx/.cache/metals/lsp.trace.json
+2022.01.15 18:11:01 INFO  logging to file /home/bexx/Projects/CPP-CrashCourse-Exercises/.metals/metals.log
+2022.01.15 18:11:01 INFO  Started: Metals version 0.11.0 in workspace '/home/bexx/Projects/CPP-CrashCourse-Exercises' for client Visual Studio Code 1.63.2.
+2022.01.15 18:11:01 INFO  Parse release: 11.0.13
+2022.01.15 18:11:03 INFO  time: initialize in 1.84s
+2022.01.15 18:11:03 WARN  Build server is not auto-connectable.
+2022.01.15 18:11:03 WARN  no build tool detected in workspace '/home/bexx/Projects/CPP-CrashCourse-Exercises'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.01.15 18:11:03 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.15 18:11:03 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch4.scala
+Jan 15, 2022 6:11:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2022.01.15 18:11:06 INFO  no build target found for /home/bexx/Projects/functional-rust/scala/ch5.scala. Using presentation compiler with project's scala-library version: 3.1.0
+2022.01.15 18:11:07 INFO  time: code lens generation in 3.11s
+2022.01.15 18:11:08 INFO  time: code lens generation in 3.47s
+2022.01.15 18:14:35 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 15, 2022 6:14:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 62
+Jan 15, 2022 6:15:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 107
+2022.01.15 18:15:49 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 15, 2022 6:15:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 292
+2022.01.15 18:16:06 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 15, 2022 6:16:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 402
+2022.01.15 18:16:57 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 07:07:20 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/bexx/Projects/CPP-CrashCourse-Exercises/.metals/lsp.trace.json or /home/bexx/.cache/metals/lsp.trace.json
+2022.01.16 07:07:20 INFO  logging to file /home/bexx/Projects/CPP-CrashCourse-Exercises/.metals/metals.log
+2022.01.16 07:07:20 INFO  Started: Metals version 0.11.0 in workspace '/home/bexx/Projects/CPP-CrashCourse-Exercises' for client Visual Studio Code 1.63.2.
+2022.01.16 07:07:20 INFO  Parse release: 11.0.13
+2022.01.16 07:07:22 INFO  time: initialize in 1.91s
+2022.01.16 07:07:23 WARN  Build server is not auto-connectable.
+2022.01.16 07:07:23 WARN  no build tool detected in workspace '/home/bexx/Projects/CPP-CrashCourse-Exercises'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.01.16 07:07:23 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 07:07:23 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch4.scala
+2022.01.16 07:07:25 INFO  no build target found for /home/bexx/Projects/functional-rust/scala/ch4.scala. Using presentation compiler with project's scala-library version: 3.1.0
+2022.01.16 07:07:27 INFO  time: code lens generation in 3.44s
+2022.01.16 07:07:27 INFO  time: code lens generation in 3.54s
+Jan 16, 2022 7:29:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+Jan 16, 2022 7:30:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 269
+Jan 16, 2022 7:31:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 370
+2022.01.16 07:31:28 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 07:31:37 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 07:31:50 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 16, 2022 7:34:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 538
+2022.01.16 07:35:14 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 07:35:29 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 07:35:41 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 07:38:38 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 07:38:52 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 07:39:39 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 07:39:49 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 16, 2022 8:03:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1347
+2022.01.16 08:05:16 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 08:05:28 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 08:05:35 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 08:05:47 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 08:06:05 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 16, 2022 12:53:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2036
+Jan 16, 2022 12:54:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2193
+Jan 16, 2022 12:54:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2324
+2022.01.16 12:54:52 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 12:55:14 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 12:55:26 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 12:55:39 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 12:56:06 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 12:56:29 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 12:56:46 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 12:56:48 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 12:57:18 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 12:57:28 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 12:57:59 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 12:59:35 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 16, 2022 12:59:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3072
+2022.01.16 13:00:03 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 13:00:23 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 13:00:33 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 13:00:36 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 13:00:42 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 13:00:55 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.16 13:01:07 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 19:01:55 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/bexx/Projects/CPP-CrashCourse-Exercises/.metals/lsp.trace.json or /home/bexx/.cache/metals/lsp.trace.json
+2022.01.19 19:01:55 INFO  logging to file /home/bexx/Projects/CPP-CrashCourse-Exercises/.metals/metals.log
+2022.01.19 19:01:55 INFO  Started: Metals version 0.11.0 in workspace '/home/bexx/Projects/CPP-CrashCourse-Exercises' for client Visual Studio Code 1.63.2.
+2022.01.19 19:01:55 INFO  Parse release: 11.0.13
+2022.01.19 19:01:58 INFO  time: initialize in 2.29s
+2022.01.19 19:01:58 WARN  Build server is not auto-connectable.
+2022.01.19 19:01:58 WARN  no build tool detected in workspace '/home/bexx/Projects/CPP-CrashCourse-Exercises'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.01.19 19:01:58 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch4.scala
+2022.01.19 19:01:58 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 19:02:03 INFO  no build target found for /home/bexx/Projects/functional-rust/scala/ch5.scala. Using presentation compiler with project's scala-library version: 3.1.0
+Jan 19, 2022 7:02:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Jan 19, 2022 7:02:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Jan 19, 2022 7:02:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Jan 19, 2022 7:02:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Jan 19, 2022 7:02:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Jan 19, 2022 7:02:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+Jan 19, 2022 7:02:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42
+Jan 19, 2022 7:02:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+2022.01.19 19:02:03 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 19:02:06 INFO  time: code lens generation in 2.44s
+2022.01.19 19:02:06 INFO  time: code lens generation in 2.37s
+2022.01.19 19:02:06 INFO  time: code lens generation in 2.61s
+2022.01.19 19:02:06 INFO  time: code lens generation in 2.38s
+2022.01.19 19:02:06 INFO  time: code lens generation in 2.46s
+2022.01.19 19:02:06 INFO  time: code lens generation in 2.39s
+2022.01.19 19:02:06 INFO  time: code lens generation in 2.61s
+2022.01.19 19:02:15 INFO  shutting down Metals
+2022.01.19 19:02:23 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/bexx/Projects/CPP-CrashCourse-Exercises/.metals/lsp.trace.json or /home/bexx/.cache/metals/lsp.trace.json
+2022.01.19 19:02:24 INFO  logging to file /home/bexx/Projects/CPP-CrashCourse-Exercises/.metals/metals.log
+2022.01.19 19:02:24 INFO  Started: Metals version 0.11.1 in workspace '/home/bexx/Projects/CPP-CrashCourse-Exercises' for client Visual Studio Code 1.63.2.
+2022.01.19 19:02:24 INFO  Parse release: 11.0.13
+2022.01.19 19:02:27 INFO  time: initialize in 2.54s
+2022.01.19 19:02:27 WARN  Build server is not auto-connectable.
+2022.01.19 19:02:27 WARN  no build tool detected in workspace '/home/bexx/Projects/CPP-CrashCourse-Exercises'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.01.19 19:02:27 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 19:02:27 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch4.scala
+2022.01.19 19:02:29 INFO  no build target found for /home/bexx/Projects/functional-rust/scala/ch5.scala. Using presentation compiler with project's scala-library version: 3.1.0
+2022.01.19 19:02:31 INFO  time: code lens generation in 3.23s
+2022.01.19 19:02:31 INFO  time: code lens generation in 3.54s
+2022.01.19 19:03:14 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 19, 2022 7:04:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 119
+2022.01.19 19:04:18 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 19:05:05 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 19:05:29 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 19:05:44 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 19:06:50 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 19:08:23 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 19:08:25 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 19:08:53 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 19, 2022 7:09:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1033
+Jan 19, 2022 7:09:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1067
+Jan 19, 2022 7:10:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1190
+Jan 19, 2022 7:10:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1191
+Jan 19, 2022 7:10:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1192
+Jan 19, 2022 7:10:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1194
+Jan 19, 2022 7:10:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1196
+Jan 19, 2022 7:10:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1379
+2022.01.19 19:11:03 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 19:11:39 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 21:07:52 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 21:09:11 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 19, 2022 9:12:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1982
+Jan 19, 2022 9:12:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2114
+2022.01.19 21:13:04 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 19, 2022 9:14:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2445
+2022.01.19 21:15:48 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 19, 2022 9:16:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2821
+2022.01.19 21:17:04 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 21:17:11 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 21:17:51 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 21:18:10 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 21:18:20 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 21:18:53 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 19, 2022 9:20:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3578
+2022.01.19 21:20:49 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 19, 2022 9:21:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3677
+2022.01.19 21:21:21 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 19, 2022 9:21:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3783
+2022.01.19 21:21:32 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 21:21:36 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 19, 2022 9:21:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3906
+2022.01.19 21:22:18 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 21:22:27 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 21:22:39 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+Jan 19, 2022 9:23:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4177
+2022.01.19 21:23:24 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 21:23:39 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 21:26:20 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 21:26:49 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 21:27:24 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 21:27:33 WARN  no build target for: /home/bexx/Projects/functional-rust/scala/ch5.scala
+2022.01.19 22:07:52 ERROR text document: file:///home/bexx/Projects/functional-rust/scala/ch5.scala
+java.nio.file.NoSuchFileException: /home/bexx/Projects/functional-rust/scala/ch5.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.nio.file.Files.readAllBytes(Files.java:3206)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$2(InteractiveSemanticdbs.scala:90)
+	at scala.Option.getOrElse(Option.scala:189)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$1(InteractiveSemanticdbs.scala:90)
+	at java.util.HashMap.compute(HashMap.java:1229)
+	at java.util.Collections$SynchronizedMap.compute(Collections.java:2692)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:89)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:63)
+	at scala.meta.internal.metals.AggregateSemanticdbs.loop$1(AggregateSemanticdbs.scala:30)
+	at scala.meta.internal.metals.AggregateSemanticdbs.textDocument(AggregateSemanticdbs.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:22)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1605)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1603)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2022.01.20 18:18:10 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/bexx/Projects/CPP-CrashCourse-Exercises/.metals/lsp.trace.json or /home/bexx/.cache/metals/lsp.trace.json
+2022.01.20 18:18:10 INFO  logging to file /home/bexx/Projects/CPP-CrashCourse-Exercises/.metals/metals.log
+2022.01.20 18:18:10 INFO  Started: Metals version 0.11.1 in workspace '/home/bexx/Projects/CPP-CrashCourse-Exercises' for client Visual Studio Code 1.63.2.
+2022.01.20 18:18:10 INFO  Parse release: 11.0.13
+2022.01.20 18:18:12 INFO  time: initialize in 1.77s
+2022.01.20 18:18:12 WARN  Build server is not auto-connectable.
+2022.01.20 18:18:12 WARN  no build tool detected in workspace '/home/bexx/Projects/CPP-CrashCourse-Exercises'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.01.20 18:18:13 WARN  no build target for: /home/bexx/Projects/FP-grokking/scala/ch6.scala
+2022.01.20 18:18:15 INFO  no build target found for /home/bexx/Projects/FP-grokking/scala/ch6.scala. Using presentation compiler with project's scala-library version: 3.1.0
+2022.01.20 18:18:16 INFO  time: code lens generation in 3.07s
+2022.01.20 18:18:16 INFO  time: code lens generation in 2.71s
+2022.01.20 18:18:24 WARN  no build target for: /home/bexx/Projects/FP-grokking/scala/ch5.scala

@@ -1,7 +1,7 @@
 #include "../test_base.h"
 #include <stdexcept>
-#include <stdlib.h>
-#include <stdio.h>
+#include <cstdlib>
+#include <cstdio>
 
 class IllegalCopy: virtual public std::exception
 {
@@ -53,6 +53,13 @@ public:
 private:
     T* m_data;
 };
+
+auto my_deleter = [](int* x) {
+    std::cout << "Deleting an in at " << x << std::endl;
+    delete x;
+};
+
+std::unique_ptr<int, decltype(my_deleter)> shr_ptr { new int, my_deleter };
 
 
 TEST_CASE("Testing custom UniquePtr Constructor", "[UniquePtr]")
